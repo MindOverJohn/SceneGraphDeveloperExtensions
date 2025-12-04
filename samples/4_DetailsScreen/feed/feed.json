@@ -1,7 +1,7 @@
 {
-    "providerName":"Roku Recommends",
+    "providerName":"MojaDramaOne",
     "language":"en-US",
-    "lastUpdated":"2017-04-20T02:01:00+02:00",
+    "lastUpdated":"2025-12-03T02:01:00+02:00",
     "movies":[
         {
             "id":"123456789",
@@ -33,13 +33,13 @@
     ],
     "series":[
         {
-            "id":"950609787035",
-            "title":"Roku Recommends",
-            "releaseDate":"2000-01-01",
-            "shortDescription":"Weekly recommendations of the latest and greatest channels, movies, TV shows, games, and more that are available now on your Roku device.",
-            "thumbnail":"https://roku-blog.s3.amazonaws.com/developer/files/2017/04/Roku-Recommends-thumbnail.png",
+            "id":"854f7e2e2bfb4f2fa6e1c3d3e4b7c6d9",
+            "title":"Around The World in 80 Days",
+            "releaseDate":"2024-12-01",
+            "shortDescription":"Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.",
+            "thumbnail":"https://archive.org/download/Atw-ch9--s1/s1.jpg",
             "genres":[
-                "action"
+                "drama"
             ],
             "tags":[
                 "series"
@@ -49,21 +49,21 @@
                     "seasonNumber":1,
                     "episodes":[
                         {
-                            "id":"6c9d0951d6d74229afe4adf972b278dd",
-                            "title":"Let's Get Cookin'",
+                            "id":"6c9d0951d6d74229a554adf972b278dd",
+                            "title":"ATW | Chapter 1",
                             "episodeNumber":1,
-                            "releaseDate":"2015-05-21",
-                            "shortDescription":"The Paula Deen Channel is your instant access to new and hilarious Paula Deen cooking and lifestyle shows. Paula and her sons,  Jamie and Bobby, will cook up their delicious southern recipes and help you with hints and tips that make meal planning simple, affordable and easy.",
-                            "thumbnail":"https://blog.roku.com/developer/files/2016/10/paula-deen-poster-artwork.png",
+                            "releaseDate":"2024-12-01",
+                            "shortDescription":"Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. ",
+                            "thumbnail":"https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.thumbs/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-_000058.jpg",
                             "content":{
-                                "dateAdded":"2015-05-21T14:14:54.431Z",
+                                "dateAdded":"2025-11-03T14:14:54.431Z",
                                 "captions":[
 
                                 ],
-                                "duration":59,
+                                "duration":540,
                                 "videos":[
                                     {
-                                        "url":"http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/An/Ad7-vxssRzyBjjdbdLdikctclTqxwEGsVWZGpiKp4/roku_ep_115_segment_5_paula_nw_050515.mp4",
+                                        "url":"https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.mp4",
                                         "quality":"HD",
                                         "videoType":"MP4"
                                     }
